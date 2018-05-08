@@ -1,0 +1,2 @@
+promising - function that returns if a given state is worth expanding or checking.
+Index - Defines a variable to be a counting number.
